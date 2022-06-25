@@ -1,0 +1,384 @@
+CRITICAL - 2022-06-24 00:53:39 --> syntax error, unexpected token "}"
+in APPPATH/Controllers/Home.php on line 10.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Home.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH/CodeIgniter.php(846): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH/CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 00:53:41 --> syntax error, unexpected token "}"
+in APPPATH/Controllers/Home.php on line 10.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Home.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH/CodeIgniter.php(846): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH/CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 00:53:42 --> syntax error, unexpected token "}"
+in APPPATH/Controllers/Home.php on line 10.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Home.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH/CodeIgniter.php(846): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH/CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 00:54:00 --> syntax error, unexpected token "}"
+in APPPATH/Controllers/Home.php on line 10.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Home.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH/CodeIgniter.php(846): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH/CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 00:54:15 --> syntax error, unexpected token "}"
+in APPPATH/Controllers/Home.php on line 10.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Home.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH/CodeIgniter.php(846): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH/CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 00:54:36 --> syntax error, unexpected token "}"
+in APPPATH/Controllers/Home.php on line 10.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Home.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH/CodeIgniter.php(846): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH/CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 00:54:37 --> syntax error, unexpected token "}"
+in APPPATH/Controllers/Home.php on line 10.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Home.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH/CodeIgniter.php(846): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH/CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 00:56:25 --> syntax error, unexpected token "}"
+in APPPATH/Controllers/Home.php on line 10.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Home.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH/CodeIgniter.php(846): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH/CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 00:56:32 --> syntax error, unexpected token "}"
+in APPPATH/Controllers/Home.php on line 10.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Home.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH/CodeIgniter.php(846): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH/CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 11:42:19 --> Undefined property: App\Controllers\Home::$Form_controller
+in APPPATH/Controllers/Home.php on line 9.
+ 1 APPPATH/Controllers/Home.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Home::$Form_controller', 'APPPATH/Controllers/Home.php', 9)
+ 2 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->index()
+ 3 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 11:53:43 --> Unclosed '{' on line 19
+in APPPATH/Controllers/Ajax.php on line 29.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Ajax.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Ajax')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Ajax')
+ 4 SYSTEMPATH/CodeIgniter.php(846): class_exists('\\App\\Controllers\\Ajax', true)
+ 5 SYSTEMPATH/CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 11:53:45 --> Unclosed '{' on line 19
+in APPPATH/Controllers/Ajax.php on line 29.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Ajax.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Ajax')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Ajax')
+ 4 SYSTEMPATH/CodeIgniter.php(846): class_exists('\\App\\Controllers\\Ajax', true)
+ 5 SYSTEMPATH/CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 11:53:46 --> Unclosed '{' on line 19
+in APPPATH/Controllers/Ajax.php on line 29.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Ajax.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Ajax')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Ajax')
+ 4 SYSTEMPATH/CodeIgniter.php(846): class_exists('\\App\\Controllers\\Ajax', true)
+ 5 SYSTEMPATH/CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 11:53:58 --> Unclosed '{' on line 19
+in APPPATH/Controllers/Ajax.php on line 29.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Ajax.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Ajax')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Ajax')
+ 4 SYSTEMPATH/CodeIgniter.php(846): class_exists('\\App\\Controllers\\Ajax', true)
+ 5 SYSTEMPATH/CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 11:54:11 --> Unclosed '{' on line 19
+in APPPATH/Controllers/Ajax.php on line 29.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Ajax.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Ajax')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Ajax')
+ 4 SYSTEMPATH/CodeIgniter.php(846): class_exists('\\App\\Controllers\\Ajax', true)
+ 5 SYSTEMPATH/CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 11:54:32 --> Unclosed '{' on line 19
+in APPPATH/Controllers/Ajax.php on line 29.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Ajax.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Ajax')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Ajax')
+ 4 SYSTEMPATH/CodeIgniter.php(846): class_exists('\\App\\Controllers\\Ajax', true)
+ 5 SYSTEMPATH/CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 11:54:38 --> Unclosed '{' on line 19
+in APPPATH/Controllers/Ajax.php on line 29.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Ajax.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Ajax')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Ajax')
+ 4 SYSTEMPATH/CodeIgniter.php(846): class_exists('\\App\\Controllers\\Ajax', true)
+ 5 SYSTEMPATH/CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 11:55:17 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Ajax.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(284): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Ajax.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Ajax')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Ajax')
+ 5 SYSTEMPATH/CodeIgniter.php(846): class_exists('\\App\\Controllers\\Ajax', true)
+ 6 SYSTEMPATH/CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 11:55:18 --> Class "CI_Controller" not found
+in APPPATH/Controllers/Ajax.php on line 3.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(284): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Ajax.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Ajax')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Ajax')
+ 5 SYSTEMPATH/CodeIgniter.php(846): class_exists('\\App\\Controllers\\Ajax', true)
+ 6 SYSTEMPATH/CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 14:22:29 --> Undefined array key "status"
+in APPPATH/Controllers/AjaxRequest.php on line 38.
+ 1 APPPATH/Controllers/AjaxRequest.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "status"', 'APPPATH/Controllers/AjaxRequest.php', 38)
+ 2 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\AjaxRequest->init()
+ 3 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxRequest))
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 17:37:36 --> A void function must not return a value
+in APPPATH/Controllers/AjaxRequest.php on line 36.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-06-24 17:38:11 --> A void function must not return a value
+in APPPATH/Controllers/AjaxRequest.php on line 36.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-06-24 17:38:20 --> A void function must not return a value
+in APPPATH/Controllers/AjaxRequest.php on line 36.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-06-24 17:39:07 --> array_key_exists(): Argument #2 ($array) must be of type array, string given
+in APPPATH/Controllers/AjaxRequest.php on line 52.
+ 1 APPPATH/Controllers/AjaxRequest.php(52): array_key_exists([...], 'name|required')
+ 2 APPPATH/Controllers/AjaxRequest.php(35): App\Controllers\AjaxRequest->varTypeCheck('string', 'name|required')
+ 3 APPPATH/Controllers/AjaxRequest.php(25): App\Controllers\AjaxRequest->validateUserRegistrationData([...])
+ 4 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\AjaxRequest->init()
+ 5 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxRequest))
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 17:39:36 --> array_key_exists(): Argument #2 ($array) must be of type array, string given
+in APPPATH/Controllers/AjaxRequest.php on line 52.
+ 1 APPPATH/Controllers/AjaxRequest.php(52): array_key_exists([...], 'name|required')
+ 2 APPPATH/Controllers/AjaxRequest.php(35): App\Controllers\AjaxRequest->varTypeCheck('string', 'name|required')
+ 3 APPPATH/Controllers/AjaxRequest.php(25): App\Controllers\AjaxRequest->validateUserRegistrationData([...])
+ 4 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\AjaxRequest->init()
+ 5 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxRequest))
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 17:41:18 --> array_key_exists(): Argument #2 ($array) must be of type array, string given
+in APPPATH/Controllers/AjaxRequest.php on line 46.
+ 1 APPPATH/Controllers/AjaxRequest.php(46): array_key_exists([...], 'name|required')
+ 2 APPPATH/Controllers/AjaxRequest.php(35): App\Controllers\AjaxRequest->varTypeCheck('string', 'name|required')
+ 3 APPPATH/Controllers/AjaxRequest.php(25): App\Controllers\AjaxRequest->validateUserRegistrationData([...])
+ 4 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\AjaxRequest->init()
+ 5 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxRequest))
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 17:42:04 --> Undefined array key "name"
+in APPPATH/Libraries/Users.php on line 18.
+ 1 APPPATH/Libraries/Users.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH/Libraries/Users.php', 18)
+ 2 APPPATH/Controllers/AjaxRequest.php(52): App\Libraries\Users->createUser([...])
+ 3 APPPATH/Controllers/AjaxRequest.php(29): App\Controllers\AjaxRequest->createUser()
+ 4 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\AjaxRequest->init()
+ 5 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxRequest))
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 17:44:23 --> array_key_exists(): Argument #2 ($array) must be of type array, string given
+in APPPATH/Controllers/AjaxRequest.php on line 47.
+ 1 APPPATH/Controllers/AjaxRequest.php(47): array_key_exists([...], 'name|required')
+ 2 APPPATH/Controllers/AjaxRequest.php(36): App\Controllers\AjaxRequest->varTypeCheck('string', 'name|required')
+ 3 APPPATH/Controllers/AjaxRequest.php(25): App\Controllers\AjaxRequest->validateUserRegistrationData([...])
+ 4 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\AjaxRequest->init()
+ 5 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxRequest))
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 17:47:41 --> Undefined array key "name"
+in APPPATH/Libraries/Users.php on line 18.
+ 1 APPPATH/Libraries/Users.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH/Libraries/Users.php', 18)
+ 2 APPPATH/Controllers/AjaxRequest.php(50): App\Libraries\Users->createUser([...])
+ 3 APPPATH/Controllers/AjaxRequest.php(28): App\Controllers\AjaxRequest->createUser()
+ 4 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\AjaxRequest->init()
+ 5 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxRequest))
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 17:49:33 --> Undefined array key "name"
+in APPPATH/Libraries/Users.php on line 18.
+ 1 APPPATH/Libraries/Users.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH/Libraries/Users.php', 18)
+ 2 APPPATH/Controllers/AjaxRequest.php(50): App\Libraries\Users->createUser([...])
+ 3 APPPATH/Controllers/AjaxRequest.php(28): App\Controllers\AjaxRequest->createUser()
+ 4 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\AjaxRequest->init()
+ 5 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxRequest))
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 18:19:37 --> Undefined array key "pass"
+in APPPATH/Models/Users.php on line 17.
+ 1 APPPATH/Models/Users.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pass"', 'APPPATH/Models/Users.php', 17)
+ 2 APPPATH/Libraries/Users.php(25): App\Models\Users->insert([...])
+ 3 APPPATH/Controllers/AjaxRequest.php(65): App\Libraries\Users->createUser([...])
+ 4 APPPATH/Controllers/AjaxRequest.php(31): App\Controllers\AjaxRequest->createUser()
+ 5 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\AjaxRequest->init()
+ 6 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxRequest))
+ 7 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 18:40:18 --> Undefined array key "pass"
+in APPPATH/Models/Users.php on line 17.
+ 1 APPPATH/Models/Users.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pass"', 'APPPATH/Models/Users.php', 17)
+ 2 APPPATH/Libraries/Users.php(25): App\Models\Users->insert([...])
+ 3 APPPATH/Controllers/AjaxRequest.php(65): App\Libraries\Users->createUser([...])
+ 4 APPPATH/Controllers/AjaxRequest.php(31): App\Controllers\AjaxRequest->createUser()
+ 5 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\AjaxRequest->init()
+ 6 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxRequest))
+ 7 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 18:40:28 --> Undefined array key "pass"
+in APPPATH/Models/Users.php on line 17.
+ 1 APPPATH/Models/Users.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pass"', 'APPPATH/Models/Users.php', 17)
+ 2 APPPATH/Libraries/Users.php(25): App\Models\Users->insert([...])
+ 3 APPPATH/Controllers/AjaxRequest.php(65): App\Libraries\Users->createUser([...])
+ 4 APPPATH/Controllers/AjaxRequest.php(31): App\Controllers\AjaxRequest->createUser()
+ 5 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\AjaxRequest->init()
+ 6 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxRequest))
+ 7 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 18:41:14 --> Undefined array key "pass"
+in APPPATH/Models/Users.php on line 18.
+ 1 APPPATH/Models/Users.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pass"', 'APPPATH/Models/Users.php', 18)
+ 2 APPPATH/Libraries/Users.php(25): App\Models\Users->insert([...])
+ 3 APPPATH/Controllers/AjaxRequest.php(65): App\Libraries\Users->createUser([...])
+ 4 APPPATH/Controllers/AjaxRequest.php(31): App\Controllers\AjaxRequest->createUser()
+ 5 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\AjaxRequest->init()
+ 6 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxRequest))
+ 7 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 18:41:52 --> Undefined array key "pass"
+in APPPATH/Models/Users.php on line 18.
+ 1 APPPATH/Models/Users.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pass"', 'APPPATH/Models/Users.php', 18)
+ 2 APPPATH/Libraries/Users.php(25): App\Models\Users->insert([...])
+ 3 APPPATH/Controllers/AjaxRequest.php(65): App\Libraries\Users->createUser([...])
+ 4 APPPATH/Controllers/AjaxRequest.php(31): App\Controllers\AjaxRequest->createUser()
+ 5 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\AjaxRequest->init()
+ 6 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxRequest))
+ 7 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 18:42:10 --> Undefined array key "pass"
+in APPPATH/Models/Users.php on line 18.
+ 1 APPPATH/Models/Users.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pass"', 'APPPATH/Models/Users.php', 18)
+ 2 APPPATH/Libraries/Users.php(25): App\Models\Users->insert([...])
+ 3 APPPATH/Controllers/AjaxRequest.php(65): App\Libraries\Users->createUser([...])
+ 4 APPPATH/Controllers/AjaxRequest.php(31): App\Controllers\AjaxRequest->createUser()
+ 5 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\AjaxRequest->init()
+ 6 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxRequest))
+ 7 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+ERROR - 2022-06-24 18:43:49 --> Unknown column 'phone' in 'field list'
+CRITICAL - 2022-06-24 18:48:43 --> Undefined array key "name"
+in APPPATH/Libraries/Users.php on line 34.
+ 1 APPPATH/Libraries/Users.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH/Libraries/Users.php', 34)
+ 2 APPPATH/Controllers/AjaxRequest.php(65): App\Libraries\Users->createUser([...])
+ 3 APPPATH/Controllers/AjaxRequest.php(31): App\Controllers\AjaxRequest->createUser()
+ 4 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\AjaxRequest->init()
+ 5 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxRequest))
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 18:50:07 --> Undefined array key "name"
+in APPPATH/Libraries/Users.php on line 34.
+ 1 APPPATH/Libraries/Users.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH/Libraries/Users.php', 34)
+ 2 APPPATH/Controllers/AjaxRequest.php(65): App\Libraries\Users->createUser([...])
+ 3 APPPATH/Controllers/AjaxRequest.php(31): App\Controllers\AjaxRequest->createUser()
+ 4 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\AjaxRequest->init()
+ 5 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxRequest))
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 18:57:41 --> Undefined array key "name"
+in APPPATH/Libraries/Users.php on line 34.
+ 1 APPPATH/Libraries/Users.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH/Libraries/Users.php', 34)
+ 2 APPPATH/Controllers/AjaxRequest.php(65): App\Libraries\Users->createUser([...])
+ 3 APPPATH/Controllers/AjaxRequest.php(31): App\Controllers\AjaxRequest->createUser()
+ 4 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\AjaxRequest->init()
+ 5 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxRequest))
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-24 18:59:02 --> Undefined array key "name"
+in APPPATH/Libraries/Users.php on line 34.
+ 1 APPPATH/Libraries/Users.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH/Libraries/Users.php', 34)
+ 2 APPPATH/Controllers/AjaxRequest.php(65): App\Libraries\Users->createUser([...])
+ 3 APPPATH/Controllers/AjaxRequest.php(31): App\Controllers\AjaxRequest->createUser()
+ 4 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\AjaxRequest->init()
+ 5 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxRequest))
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
